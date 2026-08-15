@@ -1,0 +1,6 @@
+{
+  "name": "Max Optical",
+  "description": "Premium Optical Shop in Lucknow offering prescription glasses, designer sunglasses, contact lenses, and computerized eye testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
